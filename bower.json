@@ -1,0 +1,22 @@
+{
+  "name": "madorsky.by",
+  "description": "site for teacher",
+  "main": "index.js",
+  "authors": [
+    "DenisKalishok"
+  ],
+  "license": "ISC",
+  "homepage": "madorsky.by",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "page-scroll-to-id": "^1.5.5"
+  }
+}
